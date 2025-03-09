@@ -37,7 +37,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title(" 🔄 Unit Converter 🌍")
+st.title(" 🔄 Unit Convertor 🌍")
 st.write("⚡ Convert between different units easily! ⚖️📏💧💰")
 
 categories = {
